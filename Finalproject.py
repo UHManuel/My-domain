@@ -6,6 +6,8 @@ Manuel Castillo
 @author: 18327
 """
 #First code i tried
+#import csv
+#file = input()
 #d = []
 #p = []
 #m = []
